@@ -2,8 +2,6 @@
 - avocado
 - lime
 - salt
-- pepper
-- chili
-
 # instructions:
+- peel the avocado, remove the seed and add it to bowl
 
