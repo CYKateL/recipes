@@ -4,6 +4,6 @@
 - salt
 - pepper
 - chili
-- corriander
+
 # instructions:
 
